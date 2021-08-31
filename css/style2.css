@@ -1,0 +1,84 @@
+.body {
+		  margin-bottom: 60px; /* Margin bottom by footer height */
+height: 100%;
+		}
+
+/*.card{
+	width: 30%;
+
+}*/
+.form{
+	margin-top: 15%;
+}
+ .form{
+ 	border-width: 50px;
+ 	display: block;
+    margin-left: 370px;
+    margin-right: 370px; }
+
+ .mycontainer{
+ 	width:28%;
+ 	display: block;
+    margin-left: 50px;
+
+ }
+select{
+	display: inline-block;
+}
+ .sel{
+ 	margin-top: 5px;
+ }
+ p.dline{
+ 	line-height: 1.5;
+
+ }
+ .myform{
+ 	border-width: 50px;
+ 	display: block;
+    margin-left: 370px;
+    margin-right: 370px;
+ }
+ .footer {
+	 position:  relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+	height: 50px;
+
+  color: white;
+  text-align: center;
+    /* background-color: #f5f5f5;*/
+ }
+ .check{
+	margin: 0;
+	 padding:  0;
+	 display: flex;
+
+ }
+
+.card-text{
+	padding: 0;
+	margin: 0;
+}
+
+.switcher{
+	margin-top: 70px;
+}
+main{
+	min-height:78vh;
+}
+
+hr{
+	align-self: center;
+	Size:30;
+	width: 90%;
+
+}
+label.error{
+	display: inline;
+
+}
+.error{
+	color: red;
+
+}
